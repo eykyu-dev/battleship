@@ -1,4 +1,4 @@
-# Battleship
+# Battleship 🚀
 a singleplayer text-based battleship game.
 
 How to play: 
